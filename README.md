@@ -12,4 +12,4 @@
 #
 ### 📊 My Stats
 
-![LOKESH's github stats](https://github-readme-stats.vercel.app/api?username=(https://github.com/rockingarun-07/rockingarun-07)&show_icons=true&theme=transparent)
+![Arun github stats](https://github-readme-stats.vercel.app/api?username=git-rockingarun&show_icons=true&theme=transparent)
