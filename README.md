@@ -9,7 +9,6 @@
 - 👨‍💻 You can find all my projects on [GitHub](https://github.com/rockingarun-07/rockingarun-07).
 - ✉️ Feel free to reach out to me via email at arun300705@gmail.com.
 
-#
-### 📊 My Stats
 
-![Arun github stats](https://github-readme-stats.vercel.app/api?username=git-rockingarun&show_icons=true&theme=transparent)
+
+
