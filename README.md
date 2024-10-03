@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Arun kumar from Chennai, India
 
-### AI-ML and Software Engineering Student
+### Software Engineering Student
 
 - 🏫 I'm currently a student studying Artificial Intelligence and Data Science at Sri Sairam Engineering College.
 - 💪 I’m passionate about programming and building a game software.
