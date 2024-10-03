@@ -11,7 +11,7 @@
 #
 ### 📊 My Stats
 
-![LOKESH's github stats](https://github-readme-stats.vercel.app/api?username=git-lokesh&show_icons=true&theme=transparent)
+![Arun's github stats](https://github-readme-stats.vercel.app/api?username=rockingarun-07&show_icons=true&theme=transparent)
 
 
 
